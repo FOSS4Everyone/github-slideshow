@@ -2,8 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Thank you Microsoft (and :octocat:) sfadsfasdfasdfs
-
-Why is this not working?
+what tod dododododod  	:abcd:  	:x:
 
 Use the left arrow to go back!
