@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Thank you Microsoft (and :octocat:) sfadsfasdfasdfsdafasdfasdffsdkk
+Thank you Microsoft (and :octocat:) sfadsfasdfasdfs
 
 Why is this not working?
 
